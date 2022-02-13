@@ -38,4 +38,4 @@
 - 위 사진은 미국 전 대통령 버락 오바마다  
 - 그러나 진짜 오바마가 아니라 GAN을 활용해 오바마 전 대통령이 말하는 것처럼 보이도록 한 것이다  
 - 관련된 유튜브 링크는 밑에 걸어두었다    
-- https://www.youtube.com/watch?v=krOXHbPcTrs&t=9s
+- https://www.youtube.com/watch?v=krOXHbPcTrs&t
