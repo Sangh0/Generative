@@ -30,7 +30,8 @@
 - 두 번째 컬럼 이미지는 선글라스를 쓰고 있지 않은 남자 이미지,  
 - 세 번째 컬럼 이미지는 선글라스를 쓰고 있지 않은 여자 이미지  
 - 마지막 이미지는 선글라스를 끼고 있는 여자 이미지다  
-- 위 그림은 "선글라스를 끼고 있는 남자 - 남자 + 여자 = 선글라스를 끼고 있는 여자"로 표현할 수 있다  
+- 즉, "선글라스를 끼고 있는 남자 - 남자 + 여자 = 선글라스를 끼고 있는 여자"로 표현할 수 있다  
+- GAN을 활용한다면 이뿐만 아니라 옷, 헤어, 악세사리 등 가상 스타일링을 할 수 있다  
 
 <img src = "https://post-phinf.pstatic.net/MjAxODA5MTRfOSAg/MDAxNTM2OTExMjkzMTUx.bnRyP_mTW_2jZnz38XGMO0a6CaXQj_KQSnE1KUidXfIg.upHzPx3nyuy5PA8YGKklru_x-3bv2wgmDEXw-iP7xy0g.PNG/2.PNG?type=w1200">
 
