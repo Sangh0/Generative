@@ -33,5 +33,5 @@
 <img src = "https://post-phinf.pstatic.net/MjAxODA5MTRfOSAg/MDAxNTM2OTExMjkzMTUx.bnRyP_mTW_2jZnz38XGMO0a6CaXQj_KQSnE1KUidXfIg.upHzPx3nyuy5PA8YGKklru_x-3bv2wgmDEXw-iP7xy0g.PNG/2.PNG?type=w1200">
 - 위 사진은 미국 전 대통령 버락 오바마다
 - 그러나 진짜 오바마가 아니라 GAN을 활용해 오바마 전 대통령이 말하는 것처럼 보이도록 한 것이다
-- 관련된 유튜브 링크는 밑에 걸어두었다
-https://www.youtube.com/watch?v=krOXHbPcTrs&t=9s
+- 관련된 유튜브 링크는 밑에 걸어두었다  
+- https://www.youtube.com/watch?v=krOXHbPcTrs&t=9s
