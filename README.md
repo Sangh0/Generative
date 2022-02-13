@@ -15,6 +15,13 @@
 - 위의 과정에서 위조 지폐범이 Generative model, 경찰이 Discriminator model에 해당한다
 - GAN은 Generative model과 Discriminator model이 서로 적대적으로 훈련하며 성능을 높이는 방식으로 학습된다
 
+### GAN의 학습 과정  
+- ex) MNIST 손글씨 data set
+  - 학습 초반  
+  - <img src = "https://i.imgur.com/ohiyq4E.png">  
+  - 학습 종료  
+  - <img src = "https://i.imgur.com/TpT6HxO.png">   
+
 
 ### GAN은 어떻게 활용되는가?  
 <img src = "https://post-phinf.pstatic.net/MjAxODA5MTRfMTQg/MDAxNTM2OTExMzUyNzgx.68AVr4HXMzoO5FXJfx2pVUMGD_WxoS-VpszKeuzVxUIg.gHBEL31cN2IvjSCWmq1SieXIpxq86-1lRjJvR1InKJ0g.PNG/4.PNG?type=w1200">
