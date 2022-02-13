@@ -18,9 +18,9 @@
 ### GAN의 학습 과정  
 - ex) MNIST 손글씨 data set
   - 학습 초반  
-  - <img src = "https://i.imgur.com/ohiyq4E.png">  
+  <img src = "https://i.imgur.com/ohiyq4E.png">  
   - 학습 종료  
-  - <img src = "https://i.imgur.com/TpT6HxO.png">   
+  <img src = "https://i.imgur.com/TpT6HxO.png">   
 
 
 ### GAN은 어떻게 활용되는가?  
