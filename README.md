@@ -3,8 +3,8 @@
 ## 각 논문마다 pytorch, tensorflow로 구현하려고 노력 중
 
 ### GAN이 무엇인가?
-<img src = "https://post-phinf.pstatic.net/MjAxODA4MjRfNTkg/MDAxNTM1MDcxMzI2MzU3.1-EfJtLhJXRtO5cpOBhPmY_78sHXdLKlp4_dkPjAFTQg.lIW07gOqN4zT_47N6Jik8QEv-6TShocejgoK_nBV538g.PNG/1.PNG?type=w1200">
-<img src = "https://t1.daumcdn.net/cfile/tistory/9928E6375B75872D17">
+<img src = "https://post-phinf.pstatic.net/MjAxODA4MjRfNTkg/MDAxNTM1MDcxMzI2MzU3.1-EfJtLhJXRtO5cpOBhPmY_78sHXdLKlp4_dkPjAFTQg.lIW07gOqN4zT_47N6Jik8QEv-6TShocejgoK_nBV538g.PNG/1.PNG?type=w1200" width=700>
+<img src = "https://t1.daumcdn.net/cfile/tistory/9928E6375B75872D17" width=700>
 
 - 위 그림은 GAN의 예시를 잘 나타내는 그림이다    
   - 위조 지폐범이 가짜 지폐를 생성한다  
