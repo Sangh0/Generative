@@ -7,4 +7,4 @@
 <img src = "https://paper-attachments.dropbox.com/s_84D9D849F786EC83B26BF2A0F74F0C33230682E8BA1D41AD8C3F3D770D23236A_1566175741579_dlhacks-perceptual-adversarial-networks-for-imagetoimage-transformation-7-638.jpg">
 
 - Generator model의 architecture는 U-Net을 따르며  
-- Discriminator model의 architecture는 일반적인 CNN의 architecture를 
+- Discriminator model의 architecture는 일반적인 CNN의 architecture를 따른다  
