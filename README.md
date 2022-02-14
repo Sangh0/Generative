@@ -13,7 +13,7 @@
   - 경찰 또한 마찬가지로 진짜 같은 가짜 지폐가 생성될수록 이를 진짜 지폐와 판별하려고 노력할 것이다  
 
 - 위의 과정에서 위조 지폐범이 Generator model, 경찰이 Discriminator model에 해당한다
-- GAN은 Generative model과 Discriminator model이 서로 적대적으로 훈련하며 성능을 높이는 방식으로 학습된다
+- GAN은 Generator model과 Discriminator model이 서로 적대적으로 훈련하며 성능을 높이는 방식으로 학습된다
 
 ### GAN의 학습 과정  
 - ex) MNIST 손글씨 data set
