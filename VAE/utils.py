@@ -30,6 +30,6 @@ def plot_generated_images(model, project_name: Optional[str] = None):
         plt.imshow(sample[i].reshape(28, 28, -1))
     
     if project_name is not None:
-        plt.savefig(f'./{project_name}/generated.png')
+        plt.savefig(f'./{project_name}/generated_{i+1}.png')
     else:
         plt.show()
