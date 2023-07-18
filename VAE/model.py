@@ -47,7 +47,7 @@ class VAE(nn.Module):
     def sampling(self, mu, log_var):
         std = torch.exp(0.5 * log_var)
         eps = torch.randn_like(std)
-        return eps.mul(std).add_(mu)
+        return eps.mul(std).add_(mu) # reparameterization trick
 
     def forward(self, src):
         x, mu, std = self.encoder(src)
