@@ -1,5 +1,6 @@
 # DDPM (Denoising Diffusion Probabilistic Models)
-
+- The process of Diffusion Model
+<img src = "https://github.com/Sangh0/Generative/blob/main/DDPM/figures/diffusion_process.png?raw=true">
 - [paper](https://arxiv.org/abs/2006.11239)
 
 ### Training
